@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+gradlew
+gradlew.bat
+gradle.properties
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+*.apk
+*.log
+
+# Signing
+signing/
+*.jks
+
+# Firebase
+google-services.json
+

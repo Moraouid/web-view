@@ -91,66 +91,15 @@ public class MainActivity extends AppCompatActivity implements LoadUrlListener, 
 
         fragmentManager = getSupportFragmentManager();
 
-        sharedPref = new SharedPref(this);
-
-        adsPref = new AdsPref(this);
-        adsManager = new AdsManager(this);
-        adsManager.initializeAd();
-        adsManager.updateConsentStatus();
-        adsManager.loadBannerAd(1);
-        adsManager.loadInterstitialAd(1, adsPref.getInterstitialAdInterval());
-
-        parentView = findViewById(R.id.parent_view);
-        navigationView = findViewById(R.id.navigationView);
-
-        if (sharedPref.getIsDarkTheme()) {
-            navigationView.setBackgroundColor(getResources().getColor(R.color.colorBackgroundDark));
-        } else {
-            navigationView.setBackgroundColor(getResources().getColor(R.color.colorBackgroundLight));
-        }
-
-        drawerLayout = findViewById(R.id.drawer_layout);
-        if (!sharedPref.getNavigationDrawer().equals("true")) {
-            drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
-        }
-
-        selectedIndex = COLLAPSING_TOOLBAR;
-        getSupportFragmentManager().beginTransaction().add(R.id.fragment_container, new FragmentWebView(), COLLAPSING_TOOLBAR_FRAGMENT_TAG).commit();
-
-        dbNavigation = new DbNavigation(this);
-        items = dbNavigation.getAllMenu(DbNavigation.TABLE_MENU);
-
-        appUpdateManager = AppUpdateManagerFactory.create(getApplicationContext());
-        if (!BuildConfig.DEBUG) {
-            inAppUpdate();
-            inAppReview();
-        }
-
-        notificationOpenHandler();
-
+        // Directly open the HTML game asset
+        loadWebPage("Hello Game", "assets", "hello_game.html");
     }
-
 
 
     public void notificationOpenHandler() {
-        String title = getIntent().getStringExtra("title");
-        String link = getIntent().getStringExtra("link");
-        if (getIntent().hasExtra("unique_id")) {
-            if (link != null && !link.equals("")) {
-                loadWebPage(title, "url", link);
-                loadNavigationMenu(false);
-                sharedPref.setLastItemPosition(-1);
-            } else {
-                loadWebPage(items.get(0).name, items.get(0).type, items.get(0).url);
-                loadNavigationMenu(true);
-                sharedPref.setLastItemPosition(0);
-            }
-        } else {
-            loadWebPage(items.get(0).name, items.get(0).type, items.get(0).url);
-            loadNavigationMenu(true);
-            sharedPref.setLastItemPosition(0);
-        }
+        loadWebPage("Hello Game", "assets", "hello_game.html");
     }
+
 
     private void loadNavigationMenu(boolean selectFirstItem) {
 
