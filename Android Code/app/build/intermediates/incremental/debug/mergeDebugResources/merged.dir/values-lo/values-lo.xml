@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+  </plurals>
+    <string msgid="549548876131348304" name="MediaControlView_audio_track_none_text">"ບໍ່ມີ"</string>
+    <string msgid="4764598467753473351" name="MediaControlView_audio_track_number_text">"ແທຣັກ <ns1:g id="AUDIO_NUMBER">%1$d</ns1:g>"</string>
+    <string msgid="3532548952520840186" name="MediaControlView_audio_track_text">"ແທຣັກສຽງ"</string>
+    <string msgid="480754169449450083" name="MediaControlView_playback_speed_normal">"ທຳມະດາ"</string>
+    <string msgid="8150324864582460559" name="MediaControlView_playback_speed_text">"ຄວາມໄວການສາຍ"</string>
+    <string msgid="1845015629089301203" name="MediaControlView_subtitle_off_text">"ປິດ"</string>
+    <string msgid="4652664932814816449" name="MediaControlView_subtitle_track_number_and_lang_text">"ແທຣັກ <ns1:g id="TRACK_NUMBER">%1$d</ns1:g> - <ns1:g id="LANG">%2$s</ns1:g>"</string>
+    <string msgid="7764843500931103738" name="MediaControlView_subtitle_track_number_text">"ແທຣັກ <ns1:g id="TRACK_NUMBER">%1$d</ns1:g>"</string>
+    <string msgid="4037918370566028719" name="MediaControlView_time_placeholder">"00:00:00"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ກັບໄປໜ້າຫຼັກ"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ເລື່ອນຂຶ້ນເທິງ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ຕົວເລືອກເພີ່ມເຕີມ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"ແລ້ວໆ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ເບິ່ງທັງໝົດ"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ເລືອກແອັບ"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ປິດ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ເປີດ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ລຶບ"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"ຍະຫວ່າງ"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ຊອກຫາ…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ລຶບຂໍ້ຄວາມຊອກຫາ"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ຄຳສຳລັບຄົ້ນຫາ"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ຊອກຫາ"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ສົ່ງຂໍ້ມູນ"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ຊອກຫາດ້ວຍສຽງ"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ແບ່ງປັນກັບ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"ແບ່ງປັນດ້ວຍ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ຫຍໍ້ລົງ"</string>
+    <string name="bottomsheet_action_expand_halfway">ຂະຫຍາຍອອກເຄິ່ງໜຶ່ງ</string>
+    <string name="character_counter_content_description">ຕົວອັກສອນທີ່ປ້ອນເຂົ້າ %1$d ຕົວຈາກທັງໝົດ %2$d ຕົວ</string>
+    <string name="character_counter_overflowed_content_description">ຂີດຈຳກັດຕົວອັກສອນເກີນ %1$d ຈາກທັງໝົດ %2$d</string>
+    <string name="clear_text_end_icon_content_description">ລຶບລ້າງຂໍ້ຄວາມ</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ເປີດນຳໃຊ້"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ຕິດຕັ້ງ"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດເປີດໃຊ້ໄດ້ຫາກບໍ່ມີການບໍລິການ Google Play ເຊິ່ງແທັບເລັດຂອງທ່ານບໍ່ມີ."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"ຕິດຕັ້ງບໍລິການ Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"ສະຖານະບໍລິການ Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ໄດ້ຫາກບໍ່ມີບໍລິການ Google Play ເຊິ່ງອຸປະກອນຂອງທ່ານບໍ່ຮອງຮັບ."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ອັບເດດ"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"ອັບເດດການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ເຂົ້າສູ່ລະບົບ"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google"</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"ກຳລັງຫຼິ້ນຢູ່ຕອນນີ້"</string>
+    <string name="error_icon_content_description">ຜິດພາດ</string>
+    <string name="exposed_dropdown_menu_content_description">ສະແດງເມນູເລື່ອນລົງ</string>
+    <string name="fcm_fallback_notification_channel_label">ອື່ນໆ</string>
+    <string name="icon_content_description">ໄອຄອນກ່ອງໂຕ້ຕອບ</string>
+    <string name="item_view_role_description">ແຖບ</string>
+    <string name="material_clock_toggle_content_description">ເລືອກຕອນເຊົ້າ ຫຼື ຕອນແລງ</string>
+    <string name="material_hour_selection">ເລືອກຊົ່ວໂມງ</string>
+    <string name="material_hour_suffix">%1$s ໂມງ</string>
+    <string name="material_minute_selection">ເລືອກນາ​ທີ</string>
+    <string name="material_minute_suffix">%1$s ນາທີ</string>
+    <string name="material_timepicker_am">ໂມງເຊົ້າ</string>
+    <string name="material_timepicker_clock_mode_description">ສະຫຼັບໄປໃຊ້ໂໝດໂມງສຳລັບການປ້ອນເວລາ.</string>
+    <string name="material_timepicker_hour">ຊົ່ວໂມງ</string>
+    <string name="material_timepicker_minute">ນາທີ</string>
+    <string name="material_timepicker_pm">ໂມງແລງ</string>
+    <string name="material_timepicker_select_time">ເລືອກເວ​ລາ</string>
+    <string name="material_timepicker_text_input_mode_description">ສະຫຼັບໄປໃຊ້ໂໝດປ້ອນຂໍ້ຄວາມສຳລັບການປ້ອນເວລາ.</string>
+    <string msgid="5728972524527278943" name="mcv2_back_button_desc">"ກັບຄືນ"</string>
+    <string msgid="6888583680833967030" name="mcv2_cc_is_off">"ຄຳແປປິດຢູ່. ຄລິກເພື່ອສະແດງມັນ."</string>
+    <string msgid="8890320846743698774" name="mcv2_cc_is_on">"ເປີດຄຳແປແລ້ວ. ຄລິກເພື່ອເຊື່ອງມັນ."</string>
+    <string msgid="1892680062375516133" name="mcv2_error_dialog_button">"ຕົກລົງ"</string>
+    <string msgid="7189466356853482980" name="mcv2_ffwd_button_desc">"ເລື່ອນໄປໜ້າ 30 ວິນາທີ"</string>
+    <string msgid="6900438429115580036" name="mcv2_full_screen_button_desc">"ເຕັມຈໍ"</string>
+    <string msgid="1475333855817994058" name="mcv2_music_artist_unknown_text">"ບໍ່ຮູ້ຈັກສິນລະປິນ"</string>
+    <string msgid="6768779662371844918" name="mcv2_music_title_unknown_text">"ບໍ່ຮູ້ຈັກຊື່ເພງ"</string>
+    <string msgid="4799850472802157220" name="mcv2_next_button_desc">"ມີເດຍຕໍ່ໄປ"</string>
+    <string msgid="5414417081368449210" name="mcv2_non_music_title_unknown_text">"ບໍ່ຮູ້ຊື່ວິດີໂອ"</string>
+    <string msgid="4619938179240477643" name="mcv2_overflow_left_button_desc">"ກັບໄປທີ່ລາຍຊື່ປຸ່ມກ່ອນໜ້າ"</string>
+    <string msgid="3959698281663418432" name="mcv2_overflow_right_button_desc">"ເບິ່ງປຸ່ມເພີ່ມເຕີມ"</string>
+    <string msgid="997297527148989963" name="mcv2_pause_button_desc">"ຢຸດຊົ່ວຄາວ"</string>
+    <string msgid="1994649551115596877" name="mcv2_play_button_desc">"ຫຼິ້ນ"</string>
+    <string msgid="1201919666572302119" name="mcv2_playback_error_text">"ບໍ່ສາມາດຫຼິ້ນລາຍການທີ່ທ່ານຮ້ອງຂໍໄວ້"</string>
+    <string msgid="5367141424871007842" name="mcv2_previous_button_desc">"ມີເດຍຜ່ານມາ"</string>
+    <string msgid="3498082316888662782" name="mcv2_replay_button_desc">"ສາຍຄືນໃໝ່"</string>
+    <string msgid="5725552141091554735" name="mcv2_rewind_button_desc">"ກັບຫຼັງ 10 ວິນາທີ"</string>
+    <string msgid="2626125787370091731" name="mcv2_seek_bar_desc">"ສະຖານະການຫຼິ້ນ"</string>
+    <string msgid="8453746936008970620" name="mcv2_settings_button_desc">"ການຕັ້ງຄ່າ"</string>
+    <string name="mtrl_badge_numberless_content_description">ການແຈ້ງເຕືອນໃໝ່</string>
+    <string name="mtrl_chip_close_icon_content_description">ລຶບ %1$s ອອກ</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">ການແຈ້ງເຕືອນໃໝ່ຫຼາຍກວ່າ %1$d ລາຍການ</string>
+    <string name="mtrl_picker_a11y_next_month">ປ່ຽນເປັນເດືອນຕໍ່ໄປ</string>
+    <string name="mtrl_picker_a11y_prev_month">ປ່ຽນເປັນເດືອນຜ່ານມາ</string>
+    <string name="mtrl_picker_announce_current_selection">ການເລືອກປັດຈຸບັນ: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">ເລືອກວັນທີ</string>
+    <string name="mtrl_picker_date_header_unselected">ເລືອກວັນທີ</string>
+    <string name="mtrl_picker_day_of_week_column_header">ຖັນມື້: %1$s</string>
+    <string name="mtrl_picker_invalid_format">ຮູບແບບບໍ່ຖືກຕ້ອງ.</string>
+    <string name="mtrl_picker_invalid_format_example">ຕົວຢ່າງ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">ໃຊ້: %1$s</string>
+    <string name="mtrl_picker_invalid_range">ໄລຍະບໍ່ຖືກຕ້ອງ.</string>
+    <string name="mtrl_picker_navigate_to_year_description">ເລື່ອນໄປປີ %1$s</string>
+    <string name="mtrl_picker_out_of_range">ຢູ່ນອກຊ່ວງວັນທີ: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">ວັນທີເລີ່ມຕົ້ນ – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – ວັນທີສິ້ນສຸດ</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">ເລືອກຊ່ວງ</string>
+    <string name="mtrl_picker_range_header_unselected">ວັນທີເລີ່ມຕົ້ນ – ວັນທີສິ້ນສຸດ</string>
+    <string name="mtrl_picker_save">ບັນທຶກ</string>
+    <string name="mtrl_picker_text_input_date_hint">ວັນທີ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">ວັນທີສິ້ນສຸດ</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">ວັນທີເລີ່ມ</string>
+    <string name="mtrl_picker_text_input_day_abbr">ວ</string>
+    <string name="mtrl_picker_text_input_month_abbr">ດ</string>
+    <string name="mtrl_picker_text_input_year_abbr">ປ</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">ປ່ຽນເປັນໂໝດປ້ອນຂໍ້ມູນປະຕິທິນ</string>
+    <string name="mtrl_picker_toggle_to_day_selection">ແຕະເພື່ອປ່ຽນເປັນການເລືອກມື້</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">ປ່ຽນເປັນໂໝດປ້ອນຂໍ້ມູນຂໍ້ຄວາມ</string>
+    <string name="mtrl_picker_toggle_to_year_selection">ແຕະເພື່ອປ່ຽນເປັນການເລືອກປີ</string>
+    <string name="offline_notification_text">ແຕະເພື່ອເປີດໂຄສະນາ</string>
+    <string name="offline_notification_title">ເບິ່ງໂຄສະນາທີ່ທ່ານບັນທຶກໄວ້ຕອນທ່ານອອບລາຍ</string>
+    <string name="offline_opt_in_confirm">ຕົກລົງ</string>
+    <string name="offline_opt_in_confirmation">ທ່ານຈະໄດ້ຮັບການແຈ້ງເຕືອນພ້ອມກັບລິ້ງເມື່ອທ່ານກັບມາອອນລາຍ</string>
+    <string name="offline_opt_in_decline">ບໍ່, ຂອບໃຈ</string>
+    <string name="offline_opt_in_message">ພວກເຮົາຈະສົ່ງການແຈ້ງເຕືອນພ້ອມກັບລິ້ງຫາເວັບໄຊຜູ້ລົງໂຄສະນາໃຫ້ທ່ານ.</string>
+    <string name="offline_opt_in_title">ເປີດໂຄສະນາເມື່ອທ່ານກັບມາອອນລາຍ.</string>
+    <string name="password_toggle_content_description">ສະແດງລະຫັດຜ່ານ</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"ຢຸດຊົ່ວຄາວ"</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"ຫຼິ້ນ"</string>
+    <string name="s1">ບັນທຶກຮູບພາບ</string>
+    <string name="s2">ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?</string>
+    <string name="s3">ຍອມຮັບ</string>
+    <string name="s4">ປະຕິເສດ</string>
+    <string name="s5">ສ້າງນັດໝາຍປະຕິທິນ</string>
+    <string name="s6">ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?</string>
+    <string name="s7">ໂຄສະນາທົດສອບ</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ຊອກຫາ"</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"ຂ້າມໄປລາຍການຕໍ່ໄປ"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"ຂ້າມໄປລາຍການກ່ອນໜ້າ"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

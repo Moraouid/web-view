@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable_bg_rounded_light.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable/bg_rounded_light.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_activity_settings.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_splash_default.jpg.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/splash_default.jpg"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/xml_network_security_config.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/font_trika.ttf.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/font/trika.ttf"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable_bg_rounded_dark.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable/bg_rounded_dark.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_ic_empty.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/ic_empty.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_splash_dark.jpg.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/splash_dark.jpg"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_dialog_privacy.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/dialog_privacy.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_drawer_header.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/raw_adblockserverlist.txt.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/raw/adblockserverlist.txt"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/font_custom_font.ttf.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/font/custom_font.ttf"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_lyt_progress.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/lyt_progress.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_ic_clear.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/ic_clear.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/menu_main.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/menu/main.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_item_drawer.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/item_drawer.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_toolbar.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_include_no_network.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/include_no_network.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_activity_splash.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_dialog_about.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/dialog_about.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_ic_no_network.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/ic_no_network.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable_bg_unselected_item.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable/bg_unselected_item.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_dialog_exit.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/dialog_exit.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_include_empty_layout.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/include_empty_layout.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_fragment_webview.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/layout_include_row_separator.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/layout/include_row_separator.xml"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable-hdpi_ic_home.png.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "com.saidweb.webviewpro.app-debug-35:/drawable_bg_selected_item.xml.flat",
+        "source": "com.saidweb.webviewpro.app-main-37:/drawable/bg_selected_item.xml"
+    }
+]

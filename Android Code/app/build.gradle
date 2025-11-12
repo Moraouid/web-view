@@ -27,6 +27,7 @@ android {
     lint {
         disable 'GradleDependency'
     }
+    namespace 'com.saidweb.webviewpro'
 }
 
 dependencies {
