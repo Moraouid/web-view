@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app name and copyright-->
+    <string name="app_name">Pro Webview</string>
+    <string name="app_copyright">SaidWeb &#169; 2023 \n جميع الحقوق محفوظة</string>
+    <string name="share_text">أرغب في مشاركة تطبيق معك. يمكنك تنزيل هذا التطبيق من بلاي ستور</string>
+
+    <!--networks and permissions-->
+    <string name="exit_msg">اضغط مرة أخرى للخروج</string>
+    <string name="msg_download">جارى التحميل..</string>
+    <string name="msg_page_not_found">الصفحة غير موجودة!</string>
+    <string name="failed_title_text">أحمم!</string>
+    <string name="btn_retry">أعد المحاولة</string>
+    <string name="failed_text">هناك مشكلة في الشبكة أو أن السيرفر معطل ، حاول مرة أخرى لاحقًا.</string>
+    <string name="permission_read_external_storage"> إذن لقراءة الملفات مطلوب </string>
+    <string name="permission_write_external_storage"> الإذن بكتابة الملفات مطلوب </string>
+    <string name="permission_access_location"> إذن للوصول إلى موقعك مطلوب </string>
+    <string name="permission_camera"> إذن للوصول إلى الكاميرا الخاصة بك مطلوب </string>
+
+
+    <!--popup menu-->
+    <string name="menu_settings">الإعدادات</string>
+    <string name="menu_privacy">سياسة الخصوصية</string>
+    <string name="menu_share">مشاركة التطبيق</string>
+    <string name="menu_rate">قيم التطبيق</string>
+    <string name="menu_more">المزيد من التطبيقات</string>
+    <string name="menu_about">من نحن</string>
+
+    <!--app deep link-->
+    <string name="app_deep_link_host">SaidWeb.com</string>
+    <string name="app_deep_link_path" translatable="false">/SaidWeb</string>
+
+    <!--settings and others-->
+    <string name="txt_title_settings">الإعدادات</string>
+    <string name="title_settings_theme">مظهر داكن</string>
+    <string name="sub_title_settings_theme">أفضل للبصر و الحفاظ على البطارية</string>
+    <string name="msg_please_wait">المرجو الإنتظار..</string>
+    <string name="title_setting_notification">الإشعارات</string>
+    <string name="sub_title_setting_notification">إدارة إعدادات الإشعارات</string>
+    <string name="title_setting_clear_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="sub_setting_clear_cache_start">تفريغ</string>
+    <string name="sub_setting_clear_cache_end">تم التفريغ</string>
+    <string name="title_setting_privacy">سياسة الخصوصية</string>
+    <string name="title_setting_share">مشاركة التطبيق</string>
+    <string name="title_setting_rate">قيم التطبيق</string>
+    <string name="title_setting_more_apps">مزيد من التطبيقات</string>
+    <string name="title_setting_about">من نحن</string>
+    <string name="msg_about_version">الإصدار</string>
+    <string name="msg_clearing_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="msg_clear_cache">هل تريد فعلاً مسح ذاكرة التخزين المؤقت ؟</string>
+    <string name="msg_cache_cleared">تم مسح ذاكرة التخزين المؤقت</string>
+    <string name="msg_cancel_update">تم إيقاف التحديث</string>
+    <string name="msg_success_update">تم التحديث بنجاح</string>
+    <string name="msg_failed_update">فشل التحديث!</string>
+
+    <!--dialog option menu-->
+    <string name="dialog_option_ok">حسناً</string>
+    <string name="dialog_option_yes">نعم</string>
+    <string name="dialog_option_cancel">إيقاف</string>
+
+    <!--exit dialog-->
+    <string name="msg_dialog_exit">شكرًا لك على استخدام تطبيقنا ، يرجى دعمنا من خلال إعطاء تقييمك ومراجعتك أو مشاركتها مع أصدقائك.</string>
+    <string name="btn_rate_us">تقييم</string>
+    <string name="btn_share">مشاركة</string>
+    <string name="btn_quit">خروج</string>
+    <string name="todo">TODO</string>
+
+    <!--Eng Luanguages -->
+
+<!--    &lt;!&ndash;app name and copyright&ndash;&gt;-->
+<!--    <string name="app_name">Pro Webview By SaidWeb</string>-->
+<!--    <string name="app_copyright">Copyright &#169; 2023 Developer \n All rights reserved</string>-->
+<!--    <string name="share_text">I Would like to share this app -  WebView App with you. Here You Can Download This Application from PlayStore</string>-->
+
+<!--    &lt;!&ndash;networks and permissions&ndash;&gt;-->
+<!--    <string name="exit_msg">Press again to exit</string>-->
+<!--    <string name="msg_download">Downloading&#8230;</string>-->
+<!--    <string name="msg_page_not_found">Page not found!</string>-->
+<!--    <string name="failed_title_text">Whoops!</string>-->
+<!--    <string name="btn_retry">RETRY</string>-->
+<!--    <string name="failed_text">There is a problem with your network or the server is down, try again later.</string>-->
+<!--    <string name="permission_read_external_storage">Permission to read files is required</string>-->
+<!--    <string name="permission_write_external_storage">Permission to write files is required</string>-->
+<!--    <string name="permission_access_location">Permission to access your location is required</string>-->
+<!--    <string name="permission_camera">Permission to access your camera is required</string>-->
+
+<!--    &lt;!&ndash;popup menu&ndash;&gt;-->
+<!--    <string name="menu_settings">Settings</string>-->
+<!--    <string name="menu_privacy">Privacy Policy</string>-->
+<!--    <string name="menu_share">Share</string>-->
+<!--    <string name="menu_rate">Rate us</string>-->
+<!--    <string name="menu_more">More apps</string>-->
+<!--    <string name="menu_about">About</string>-->
+
+<!--    &lt;!&ndash;app deep link&ndash;&gt;-->
+<!--    <string name="app_deep_link_host">SaidWeb.com</string>-->
+<!--    <string name="app_deep_link_path" translatable="false">/SaidWeb</string>-->
+
+<!--    &lt;!&ndash;settings and others&ndash;&gt;-->
+<!--    <string name="txt_title_settings">Settings</string>-->
+<!--    <string name="title_settings_theme">Dark Theme</string>-->
+<!--    <string name="sub_title_settings_theme">Better for eyesight and battery life</string>-->
+<!--    <string name="msg_please_wait">Please wait&#8230;</string>-->
+<!--    <string name="title_setting_notification">Push Notification</string>-->
+<!--    <string name="sub_title_setting_notification">Manage push notification settings</string>-->
+<!--    <string name="title_setting_clear_cache">Clear Cache</string>-->
+<!--    <string name="sub_setting_clear_cache_start">Free up</string>-->
+<!--    <string name="sub_setting_clear_cache_end">of space</string>-->
+<!--    <string name="title_setting_privacy">Privacy Policy</string>-->
+<!--    <string name="title_setting_share">Share</string>-->
+<!--    <string name="title_setting_rate">Rate us</string>-->
+<!--    <string name="title_setting_more_apps">More apps</string>-->
+<!--    <string name="title_setting_about">About</string>-->
+<!--    <string name="msg_about_version">Version</string>-->
+<!--    <string name="msg_clearing_cache">Clearing cache</string>-->
+<!--    <string name="msg_clear_cache">Are you sure want to clear cache?</string>-->
+<!--    <string name="msg_cache_cleared">cache has been cleared</string>-->
+<!--    <string name="msg_cancel_update">Update canceled</string>-->
+<!--    <string name="msg_success_update">Update success!</string>-->
+<!--    <string name="msg_failed_update">Update Failed!</string>-->
+
+<!--    &lt;!&ndash;dialog option menu&ndash;&gt;-->
+<!--    <string name="dialog_option_ok">OK</string>-->
+<!--    <string name="dialog_option_yes">YES</string>-->
+<!--    <string name="dialog_option_cancel">Cancel</string>-->
+
+<!--    &lt;!&ndash;exit dialog&ndash;&gt;-->
+<!--    <string name="msg_dialog_exit">Thank you for using our app, please support us by giving your rating and review or share with your friends.</string>-->
+<!--    <string name="btn_rate_us">Rate Us</string>-->
+<!--    <string name="btn_share">Share</string>-->
+<!--    <string name="btn_quit">Quit</string>-->
+
+</resources>

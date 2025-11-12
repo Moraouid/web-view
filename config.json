@@ -1,0 +1,70 @@
+{
+	"app": {
+		"status": "1",
+		"toolbar": "true",
+		"navigation_drawer": "true",
+		"geolocation": "true",
+		"cache": "true",
+		"open_link_in_external_browser": "false",
+		"privacy_policy_url": "https://sites.google.com/view/saidpolicy",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Your_Developer",
+		"redirect_url": ""
+	},	
+	"menus": [
+		{
+			"name": "Home",
+			"type": "url",
+			"icon": "https://cdn-icons-png.flaticon.com/512/3502/3502627.png",
+			"url": "https://saidblog1.blogspot.com/p/bg-photo-container.html"
+		},
+		{
+			"name": "Games",
+			"type": "url",
+			"icon": "https://cdn-icons-png.flaticon.com/512/3743/3743230.png",
+			"url": "https://yandex.com/games"
+		},
+		{
+			"name": "Sports",
+			"type": "url",
+			"icon": "https://cdn-icons-png.flaticon.com/512/7452/7452521.png",
+			"url": "https://drama-live.tv/"
+		},
+		{
+			"name": "Cinema",
+			"type": "url",
+			"icon": "https://cdn-icons-png.flaticon.com/512/2876/2876016.png",
+			"url": "https://movizland.xyz/"
+		},
+				{
+			"name": "Privacy Policy",
+			"type": "assets",
+			"icon": "https://cdn-icons-png.flaticon.com/512/9038/9038158.png",
+			"url": "https://sites.google.com/view/saidpolicy"
+		}
+	],
+	"notification": {
+		"fcm_notification_topic": "saidweb_topic",
+		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"interstitial_ad_interval": 5
+	}	
+}
