@@ -85,15 +85,19 @@ public class MainActivity extends AppCompatActivity implements LoadUrlListener, 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Utils.getTheme(this);
-        setContentView(R.layout.activity_main);
-        Utils.setNavigation(this);
+        setContentView(R.layout.activity_main); // Make sure activity_main.xml has fragment_container!
 
-        fragmentManager = getSupportFragmentManager();
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        FragmentWebView fragment = new FragmentWebView();
+        Bundle data = new Bundle();
+        data.putString("name", "Hello Game");
+        data.putString("type", "assets");
+        data.putString("url", "hello_game.html");
+        fragment.setArguments(data);
 
-        // Directly open the HTML game asset
-        loadWebPage("Hello Game", "assets", "hello_game.html");
+        fragmentManager.beginTransaction().replace(R.id.fragment_container, fragment).commit();
     }
+
 
 
     public void notificationOpenHandler() {
